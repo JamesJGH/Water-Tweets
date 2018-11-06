@@ -21,7 +21,7 @@ The final output is a barplot showing number of positive, neutral and negative t
 
 Below is a copy of the word cloud created and identifies common words appearing in tweets and common topic areas. The stopwords appear to of done well in removing common words, however in further work more could be done to remove other words not relevant to the study such as ‘JHardacre’ and grouping of similar words including their slang such as ‘shooting’ and ‘shootin’. 
 
- 
+![alt text](https://raw.githubusercontent.com/JamesJGH/Water-Tweets/WordCloud.png)
 
 **Frequency Distribution of Sentiment**
 
