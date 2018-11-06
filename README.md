@@ -34,7 +34,7 @@ A percentage of each sentiment category was then calculated.
 
 Finally a barplot was created displaying the frequency of the sentiment categories.
 
- 
+![alt text](https://github.com/JamesJGH/Water-Tweets/blob/master/Frequency%20Distribution%20of%20Sentiment.png)
 
 **Areas for Further Study**
 
